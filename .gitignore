@@ -1,0 +1,23 @@
+# Banco de dados (não subir — 16 MB + dados de traduções)
+*.db
+
+# Cache do Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Backups locais
+*_pre_*.py
+main_v2_old.py
+main_debug*.py
+models_debug.py
+importar_web_debug.py
+
+# Arquivos de ambiente
+.env
+.venv/
+venv/
+
+# Sistema
+.DS_Store
+Thumbs.db
